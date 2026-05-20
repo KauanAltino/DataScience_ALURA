@@ -26,6 +26,7 @@ O objetivo foi praticar a leitura, limpeza e exploração de bases reais para re
 - `Base_Dados/`: pasta com dados de apoio.
 - `serenatto_2sem_2023.csv`: base de vendas usada em uma das análises.
 - `tmdb_5000_movies.csv`: base de filmes do TMDB.
+- `.\Certificado`: certificado de conclusão do curso.
 
 ## Tecnologias utilizadas
 
